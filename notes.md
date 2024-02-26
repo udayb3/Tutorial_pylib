@@ -1,0 +1,12 @@
+- # List
+  - ## `Problem`
+    - ### When we assign a list to another variable in python.
+    - ### Any changes made to the copied list will also show in the original list.
+  - ## `Solution`
+    - ### Use functions such as `copy`, `deepcopy` from the copy module. `copy` creates a shallow copy so it is better to use `deepcopy`.
+
+- # max/min
+  - ## `Problem`
+    - ### How to apply the max function on a self-made data structure or a class object.
+  - ## `Solution`
+    - ### This can be done by passing a function to the key parameter of the max/min function.      
