@@ -1,0 +1,9 @@
+# ignoring non-important files
+cheatsheet/
+
+# ignoring the log files
+*/**/*.log
+
+# ignoring the cache files
+__pycache__/
+/**/__pycache__/
