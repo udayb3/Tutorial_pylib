@@ -7,3 +7,10 @@ cheatsheet/
 # ignoring the cache files
 __pycache__/
 /**/__pycache__/
+
+# ignoring the python virtual environment
+pyvenv/**/*
+venv/**/*
+
+# ignoring large data files
+*/data/**/*
