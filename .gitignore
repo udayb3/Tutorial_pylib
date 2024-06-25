@@ -1,5 +1,7 @@
-# ignoring non-important files
-cheatsheet/
+# ignoring test files and folders
+test/**/*
+test.*
+*/**/test.*
 
 # ignoring the log files
 */**/*.log
